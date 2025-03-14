@@ -47,6 +47,10 @@ cd ..
 npm run dev
 ```
 
+## URLs
+- frontend is on `http://localhost:3000`
+- api is on `http://localhost:8000`
+
 ## Technologies
 - [Next.js](https://nextjs.org/)
 - [NestJS](https://nestjs.com/)
