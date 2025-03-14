@@ -35,9 +35,15 @@ API_URL=
 SESSION_SECRET_KEY=
 ```
 
+# Generate Prisma client
+```sh
+cd apps/api
+npx prisma generate
+```
+
 ## Run the app
 ```sh
-cd apps
+cd ..
 npm run dev
 ```
 
