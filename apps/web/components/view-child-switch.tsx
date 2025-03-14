@@ -8,7 +8,7 @@ export default function ViewChildSwitch({
 	switchLabel,
 	children,
 }: { children: React.ReactNode } & { switchLabel?: string }) {
-	const [isShowen, setIsShowen] = useState(true);
+	const [isShowen, setIsShowen] = useState(false);
 	return (
 		<>
 			<div className="flex items-center space-x-2">
