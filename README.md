@@ -35,6 +35,12 @@ API_URL=
 SESSION_SECRET_KEY=
 ```
 
+## Run the app
+```sh
+cd apps
+npm run dev
+```
+
 ## Technologies
 - [Next.js](https://nextjs.org/)
 - [NestJS](https://nestjs.com/)
